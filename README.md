@@ -1,14 +1,14 @@
 # RSA-APPLICATION!
 
-Olá, meu nome é Leandro Amorim.
-Esse projeto foi desenvolvido com o objetivo de compartilhar conhecimento como forma de melhorar meu próprio conhecimento sobre o RSA. 
+OlÃ¡, meu nome Ã© Leandro Amorim.
+Esse projeto foi desenvolvido com o objetivo de compartilhar conhecimento como forma de melhorar meu prÃ³prio conhecimento sobre o RSA. 
 
-Nesse projeto vocês terão:
-	* Geração das chaves privada e pública
-	* Método para criptografia
-	* Método para descriptografia
-	* Armazenamento e carregamento das chaves no arquivo appsettings.json
-	* Importação e exportação das chaves geradas em formato hexadecimal e string base 64
+Nesse projeto vocÃªs terÃ£o:
+- GeraÃ§Ã£o das chaves privada e pÃºblica
+- MÃ©todo para criptografia
+- MÃ©todo para descriptografia
+- Armazenamento e carregamento das chaves no arquivo appsettings.json
+- ImportaÃ§Ã£o e exportaÃ§Ã£o das chaves geradas em formato hexadecimal e string base 64
 
 Fiquem a vontade para utilizar o projeto.
 
