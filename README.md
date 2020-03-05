@@ -16,7 +16,7 @@ Feel free to use the project.
 - Linkedin: www.linkedin.com/in/leamorim/
 - Email: leamorim@outlook.com
 
-===============================================================================================================
+----
 Olá, meu nome é Leandro Amorim.
 Esse projeto foi desenvolvido com o objetivo de compartilhar conhecimento sobre meus estudos com o RSA utilizando ASP NET CORE e simplificar ao máximo as rotinas que sempre utilizamos em criptografias. 
 
