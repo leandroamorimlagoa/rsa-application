@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "rsa-application": {
+      "commandName": "Project",
+      "launchUrl": "seguranca/gerar-chaves/2048",
+      "applicationUrl": "http://localhost:5000"
+    }
+  }
+}
